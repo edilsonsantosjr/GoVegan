@@ -40,7 +40,7 @@ Este App foi criado com [Vite](https://vitejs.dev/) <br>
 
 ## | Deploy |
 
-https://go-vegan-seven.vercel.app/parceiros
+https://go-vegan-seven.vercel.app/
 
 ## | Layout | 
 
