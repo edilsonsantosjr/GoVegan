@@ -1,0 +1,15 @@
+.btn__component {
+  width: 160px;
+  cursor: pointer;
+  color: var(--white);
+  font-size: 16px;
+  padding: 5px 30px;
+  border-radius: 35px;
+  box-shadow: var(--shadow)
+}
+
+.btn__component:hover {
+  opacity: 0.9;
+  scale: 1.04;
+  transition: all .2s ease-in-out;
+}

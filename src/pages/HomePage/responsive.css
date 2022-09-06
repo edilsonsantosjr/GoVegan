@@ -1,0 +1,180 @@
+@media only screen and (max-width:1400px) {
+  .home__purpose__img {
+    padding: 0 20px;
+  }
+}
+
+@media only screen and (max-width:1220px) {
+  .home__background {
+    background-position: center top 76px;
+    height: 62vw;
+  }
+}
+
+@media only screen and (max-width:980px) {
+  .home__background {
+    height: 66vw;
+  }
+  .home__about__picture-img {
+    width: 80%;
+    height: 50%;
+  }
+  .home__about {
+    padding: 10px;
+  }
+}
+
+@media only screen and (max-width:900px) {
+  .home__about {
+    flex-direction: column;
+    gap: 30px;
+    padding: 0 40px;
+  }
+  .home__about__description {
+    width: 100%;
+  }
+  .home__purpose__description {
+    display: flex;  
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (max-width:860px) {
+  .home__purpose__text {
+    background-position: bottom;
+  }
+  .purpose__text {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width:800px) {
+  .home__background {
+    background-position: center top 60px;
+    height: 66vw;
+  }
+  .home__purpose__description {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  .home__purpose__types {
+    gap: 80px;
+  }
+  .purpose__text {
+    font-size: 18px;
+    line-height: 38px;
+  }
+  .home__purpose__text {
+    height: 72vw;
+  }
+}
+
+@media only screen and (max-width:720px) {
+  .home__background {
+    height: 66vw;
+  }
+  .home__about__description {
+    gap: 30px;
+  }
+  .home__about__title, .home__purpose__title {
+    font-size: 32px;
+  }
+  .home__purpose__types {
+    font-size: 22px;
+  }
+}
+
+@media only screen and (max-width:680px) {
+  .home__background {
+    background-position: center top 60px;
+    height: 68vw;
+  }
+  .purpose__text {
+    font-size: 16px;
+    line-height: 28px;
+    padding-left: 20px;
+  }
+}
+@media only screen and (max-width:620px) {
+  .home__purpose__text {
+    background-position: center;
+  }
+}
+
+@media only screen and (max-width:570px) {
+  .home__background {
+    background-position: center top 50px;
+  }
+  .home__about__title, .home__purpose__title {
+    font-size: 28px;
+  }
+  .purpose__text {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .purpose__type__animals, .purpose__type__environment, .purpose__type__health { 
+    font-size: 20px;
+    width: 80%;
+    text-align: end;
+  }
+}
+
+@media only screen and (max-width:500px) {
+  .home__background {
+    height: 69vw;
+  }
+  .home__about__description {
+    gap: 20px;
+  }
+  .home__about__title, .home__purpose__title {
+    font-size: 24px;
+  }
+  .home__about__text, .purpose__type__animals, .purpose__type__environment, .purpose__type__health {
+    font-size: 16px;
+  }
+  .purpose__text {
+    line-height: 16px;
+  }
+  .home__purpose__img {
+    height: 100%;
+  }
+  .purpose__img {
+    width: 100%;
+    height: 100vw;
+  }
+}
+
+@media only screen and (max-width:450px) {
+  .home__background {
+    background-position: center;
+  }
+  .home__about {
+    margin-top: -10px;
+  }
+  .purpose__type__animals, .purpose__type__environment, .purpose__type__health { 
+    width: 90%;
+  }
+  .purpose__text {
+    font-size: 12px;
+    padding-left: 10px;
+  }
+}
+
+@media only screen and (max-width:380px) {
+  .home__about {
+    padding: 0 20px;
+  }
+}
+
+@media only screen and (max-width:330px) {
+  .home__purpose__text {
+    align-items: flex-start;
+    padding-top: 20px;
+  }  
+  .purpose__type__animals, .purpose__type__environment, .purpose__type__health { 
+    width: 99%;
+  }
+}
+
+

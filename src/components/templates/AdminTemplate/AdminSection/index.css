@@ -1,0 +1,40 @@
+.main-adm {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: min-content;
+  color: var(--secundary);
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-top: 50px;
+  gap: 20px;
+}
+
+.content_RegisterPartners {
+  width: 80%;
+}
+
+.main-adm__list__title {
+  font-size: 44px;
+  text-align: center; 
+}
+
+.plus-icon {  
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  background-color: var(--secundary);
+  padding: 4px;
+  border-radius: 50%;  
+  box-shadow: var(--shadow);
+  cursor: pointer;
+}
+
+.card-list__sectiom {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
